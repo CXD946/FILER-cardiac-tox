@@ -19,20 +19,6 @@ longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab
 visibility dense
 bigDataUrl ENCFF927EPX.bed
 
-track ENCFF927EPX
-type narrowPeak
-shortLabel Heart H3K4me1
-longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab=Bradley Bernstein, Broad;ENCODE_internal_tags=RegulomeDB_2_2,ENCYCLOPEDIAv2;Life_stage_age=embryonic 105 days;Reference=PMID:32728046;External_resources=GEO:GSM706848;Project=Roadmap;Award=U01ES017155;Experiment_date_released=2013-07-31;Submitted_track_name=r1.narrowPeak.bb;ENCODE_preferred_default=false;ENCODE_biosample_term_name=heart;ENCODE_cell_slims=NR;ENCODE_system_slims=circulatory system;ENCODE_biosample_term_synonyms=chambered heart,vertebrate heart;Analysis_title=ENCODE3 hg19;GM=NR;Schema=bed6+4
-visibility dense
-bigDataUrl ENCFF927EPX.bed
-
-track ENCFF927EPX
-type narrowPeak
-shortLabel Heart H3K4me1
-longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab=Bradley Bernstein, Broad;ENCODE_internal_tags=RegulomeDB_2_2,ENCYCLOPEDIAv2;Life_stage_age=embryonic 105 days;Reference=PMID:32728046;External_resources=GEO:GSM706848;Project=Roadmap;Award=U01ES017155;Experiment_date_released=2013-07-31;Submitted_track_name=r1.narrowPeak.bb;ENCODE_preferred_default=false;ENCODE_biosample_term_name=heart;ENCODE_cell_slims=NR;ENCODE_system_slims=circulatory system;ENCODE_biosample_term_synonyms=chambered heart,vertebrate heart;Analysis_title=ENCODE3 hg19;GM=NR;Schema=bed6+4
-visibility dense
-bigDataUrl ENCFF927EPX.bed
-
 track formatted_output_BSS00494_ENCODE_Enh_hg19
 type bed 6
 shortLabel Heart consolidated
@@ -110,13 +96,6 @@ longLabel Original_cell_type=heart male embryo (105 days);doi=https://doi.org/10
 visibility dense
 bigDataUrl formatted_output_BSS00517_Roadmap_2015_Enh_hg19.bed
 
-track formatted_output_BSS00517_Roadmap_2015_Enh_hg19
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=heart male embryo (105 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00517;extended_md.donor.ids=ENCDO350ZUK;extended_md.collated.donors=ENCDO350ZUK;extended_md.accession=ENCSR320PGJ,ENCSR085FXN,ENCSR480OFK;extended_md.biosample.ids=ENCBS816GCP;extended_md.assay=ChIP-seq,DNase-seq;extended_md.life.stage=embryonic;extended_md.age=105;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
-visibility dense
-bigDataUrl formatted_output_BSS00517_Roadmap_2015_Enh_hg19.bed
-
 track formatted_output_BSS00518_Roadmap_2021_Enh_hg19
 type bed 6
 shortLabel Heart consolidated
@@ -145,27 +124,6 @@ longLabel Original_cell_type=heart male embryo (91 day);doi=https://doi.org/10.1
 visibility dense
 bigDataUrl formatted_output_BSS00521_Roadmap_2015_Enh_hg19.bed
 
-track formatted_output_BSS00521_Roadmap_2015_Enh_hg19
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=heart male embryo (91 day);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00521;extended_md.donor.ids=ENCDO375VTO;extended_md.collated.donors=ENCDO375VTO;extended_md.accession=ENCSR358RVW,ENCSR676ZKW;extended_md.biosample.ids=ENCBS334PQY;extended_md.assay=ChIP-seq;extended_md.life.stage=embryonic;extended_md.age=91;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
-visibility dense
-bigDataUrl formatted_output_BSS00521_Roadmap_2015_Enh_hg19.bed
-
-track formatted_output_BSS00521_Roadmap_2015_Enh_hg19
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=heart male embryo (91 day);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00521;extended_md.donor.ids=ENCDO375VTO;extended_md.collated.donors=ENCDO375VTO;extended_md.accession=ENCSR358RVW,ENCSR676ZKW;extended_md.biosample.ids=ENCBS334PQY;extended_md.assay=ChIP-seq;extended_md.life.stage=embryonic;extended_md.age=91;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
-visibility dense
-bigDataUrl formatted_output_BSS00521_Roadmap_2015_Enh_hg19.bed
-
-track formatted_output_BSS00522_Roadmap_2015_Enh_hg19
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=heart male embryo (96 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00522;extended_md.donor.ids=ENCDO778DGP;extended_md.collated.donors=ENCDO778DGP;extended_md.accession=ENCSR536NGW;extended_md.biosample.ids=ENCBS312JJA;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=96;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
-visibility dense
-bigDataUrl formatted_output_BSS00522_Roadmap_2015_Enh_hg19.bed
-
 track formatted_output_BSS00522_Roadmap_2015_Enh_hg19
 type bed 6
 shortLabel Heart consolidated
@@ -179,181 +137,6 @@ shortLabel Heart Not applicable
 longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
 visibility dense
 bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
-
-track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed 6
-shortLabel Heart Not applicable
-longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
-visibility dense
-bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
 
 track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
 type bed 6
@@ -369,145 +152,12 @@ longLabel Original_cell_type=Fetal Heart;schema=BED4
 visibility dense
 bigDataUrl E083_15_coreMarks_mnemonics_enhancer.bed
 
-track E083_15_coreMarks_mnemonics_enhancer
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics_enhancer.bed
-
 track E083_15_coreMarks_mnemonics
 type bed 6
 shortLabel Heart consolidated
 longLabel Original_cell_type=Fetal Heart;schema=BED4
 visibility dense
 bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track E083_15_coreMarks_mnemonics
-type bed 6
-shortLabel Heart consolidated
-longLabel Original_cell_type=Fetal Heart;schema=BED4
-visibility dense
-bigDataUrl E083_15_coreMarks_mnemonics.bed
-
-track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed 6
-shortLabel Heart H3K36me3
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed 6
-shortLabel Heart H3K36me3
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed 6
-shortLabel Heart H3K36me3
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed 6
-shortLabel Heart H3K36me3
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed 6
-shortLabel Heart H3K36me3
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
 type bed 6
@@ -523,47 +173,12 @@ longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.H-23524.gappedPeak.bed
 
-track BI.Fetal_Heart.H3K4me1.H-23524.gappedPeak
-type bed 6
-shortLabel Heart H3K4me1
-longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K4me1.H-23524.gappedPeak.bed
-
 track BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak
 type bed 6
 shortLabel Heart H3K4me1
 longLabel Original_cell_type=Fetal Heart;Donor= UW_H23914;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak
-type bed 6
-shortLabel Heart H3K4me1
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H23914;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak
-type bed 6
-shortLabel Heart H3K4me1
-longLabel Original_cell_type=Fetal Heart;Donor= UW_H23914;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak
-type bed 6
-shortLabel Heart H3K9ac
-longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak.bed
-
-track BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak
-type bed 6
-shortLabel Heart H3K9ac
-longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
-visibility dense
-bigDataUrl BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak
 type bed 6
