@@ -1,236 +1,236 @@
 track ENCFF239GPK
-type bed6+4
+type bed
 shortLabel Heart H3K9ac
 longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab=Bradley Bernstein, Broad;ENCODE_internal_tags=ENCYCLOPEDIAv1,ENCYCLOPEDIAv2;Life_stage_age=embryonic 105 days;Reference=PMID:32728046;External_resources=GEO:GSM706849;Project=Roadmap;Award=U01ES017155;Experiment_date_released=2013-07-31;Submitted_track_name=r1.narrowPeak.bb;ENCODE_preferred_default=false;ENCODE_biosample_term_name=heart;ENCODE_cell_slims=NR;ENCODE_system_slims=circulatory system;ENCODE_biosample_term_synonyms=chambered heart,vertebrate heart;Analysis_title=ENCODE3 hg19;GM=NR;Schema=bed6+4
 visibility dense
 bigDataUrl ENCFF239GPK.bed
 
 track ENCFF377VIY
-type bed6+4
+type bed
 shortLabel Heart H3K4me1
 longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab=Bradley Bernstein, Broad;ENCODE_internal_tags=RegulomeDB_2_2,ENCYCLOPEDIAv2;Life_stage_age=embryonic 105 days;Reference=PMID:32728046;External_resources=GEO:GSM706848;Project=Roadmap;Award=U01ES017155;Experiment_date_released=2013-07-31;Submitted_track_name=final.replicated.narrowPeak.bb;ENCODE_preferred_default=true;ENCODE_biosample_term_name=heart;ENCODE_cell_slims=NR;ENCODE_system_slims=circulatory system;ENCODE_biosample_term_synonyms=chambered heart,vertebrate heart;Analysis_title=ENCODE3 hg19;GM=NR;Schema=bed6+4
 visibility dense
 bigDataUrl ENCFF377VIY.bed
 
 track ENCFF927EPX
-type bed6+4
+type bed
 shortLabel Heart H3K4me1
 longLabel Biosample_summary=Homo sapiens heart tissue male embryo (105 days);Lab=Bradley Bernstein, Broad;ENCODE_internal_tags=RegulomeDB_2_2,ENCYCLOPEDIAv2;Life_stage_age=embryonic 105 days;Reference=PMID:32728046;External_resources=GEO:GSM706848;Project=Roadmap;Award=U01ES017155;Experiment_date_released=2013-07-31;Submitted_track_name=r1.narrowPeak.bb;ENCODE_preferred_default=false;ENCODE_biosample_term_name=heart;ENCODE_cell_slims=NR;ENCODE_system_slims=circulatory system;ENCODE_biosample_term_synonyms=chambered heart,vertebrate heart;Analysis_title=ENCODE3 hg19;GM=NR;Schema=bed6+4
 visibility dense
 bigDataUrl ENCFF927EPX.bed
 
 track formatted_output_BSS00494_ENCODE_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart embryo (59 days) and female embryo (76 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00494;extended_md.donor.ids=ENCDO237NAG,ENCDO163CLX;extended_md.collated.donors=ENCDO237NAG,ENCDO163CLX;extended_md.accession=ENCSR664PKM;extended_md.biosample.ids=ENCBS953MIB,ENCBS910QFW;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=59,76;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00494_ENCODE_Enh_hg19.bed
 
 track formatted_output_BSS00495_ENCODE_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart embryo (80 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00495;extended_md.donor.ids=ENCDO662IIE;extended_md.collated.donors=ENCDO662IIE;extended_md.accession=ENCSR804RSI;extended_md.biosample.ids=ENCBS913ULP;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=80;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00495_ENCODE_Enh_hg19.bed
 
 track formatted_output_BSS00496_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart embryo (96 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00496;extended_md.donor.ids=ENCDO226BUZ;extended_md.collated.donors=ENCDO226BUZ;extended_md.accession=ENCSR911LTI;extended_md.biosample.ids=ENCBS114OIZ;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=96;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00496_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00498_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (103 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00498;extended_md.donor.ids=ENCDO623IAT;extended_md.collated.donors=ENCDO623IAT;extended_md.accession=ENCSR914DOH;extended_md.biosample.ids=ENCBS746QTW;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=103;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00498_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00499_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (105 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00499;extended_md.donor.ids=ENCDO718LHH;extended_md.collated.donors=ENCDO718LHH;extended_md.accession=ENCSR154ZNQ;extended_md.biosample.ids=ENCBS453VEU;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=105;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00499_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00500_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (110 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00500;extended_md.donor.ids=ENCDO087TLK;extended_md.collated.donors=ENCDO087TLK;extended_md.accession=ENCSR189YJQ;extended_md.biosample.ids=ENCBS516ACB;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=110;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00500_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00501_ENCODE_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (116 days) and female embryo (98 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00501;extended_md.donor.ids=ENCDO712ZBZ,ENCDO298NZG;extended_md.collated.donors=ENCDO712ZBZ,ENCDO298NZG;extended_md.accession=ENCSR749BWV;extended_md.biosample.ids=ENCBS996MDU,ENCBS320XNN;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=98116;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00501_ENCODE_Enh_hg19.bed
 
 track formatted_output_BSS00503_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (147 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00503;extended_md.donor.ids=ENCDO863JOG;extended_md.collated.donors=ENCDO863JOG;extended_md.accession=ENCSR533VAF;extended_md.biosample.ids=ENCBS708NLN;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=147;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00503_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00505_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart female embryo (91 day);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00505;extended_md.donor.ids=ENCDO605ZCF;extended_md.collated.donors=ENCDO605ZCF;extended_md.accession=ENCSR064GBK;extended_md.biosample.ids=ENCBS407ALA;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=91;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00505_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00516_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male child (3 years);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00516;extended_md.donor.ids=ENCDO478OMA;extended_md.collated.donors=ENCDO478OMA;extended_md.accession=ENCSR305UJX;extended_md.biosample.ids=ENCBS346WQD;extended_md.assay=DNase-seq;extended_md.life.stage=child;extended_md.age=3;extended_md.age.units=year;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00516_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00517_Roadmap_2015_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (105 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00517;extended_md.donor.ids=ENCDO350ZUK;extended_md.collated.donors=ENCDO350ZUK;extended_md.accession=ENCSR320PGJ,ENCSR085FXN,ENCSR480OFK;extended_md.biosample.ids=ENCBS816GCP;extended_md.assay=ChIP-seq,DNase-seq;extended_md.life.stage=embryonic;extended_md.age=105;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00517_Roadmap_2015_Enh_hg19.bed
 
 track formatted_output_BSS00518_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (110 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00518;extended_md.donor.ids=ENCDO640NNW;extended_md.collated.donors=ENCDO640NNW;extended_md.accession=ENCSR311LLZ;extended_md.biosample.ids=ENCBS125CGW;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=110;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00518_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00519_Roadmap_2021_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (120 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00519;extended_md.donor.ids=ENCDO249ZDZ;extended_md.collated.donors=ENCDO249ZDZ;extended_md.accession=ENCSR392GCE;extended_md.biosample.ids=ENCBS172XKB;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=120;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00519_Roadmap_2021_Enh_hg19.bed
 
 track formatted_output_BSS00520_ENCODE_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (72 days) and male embryo (76 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00520;extended_md.donor.ids=ENCDO647EYG,ENCDO300THQ;extended_md.collated.donors=ENCDO647EYG,ENCDO300THQ;extended_md.accession=ENCSR705CNJ;extended_md.biosample.ids=ENCBS619VKQ,ENCBS486AQS;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=72,76;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00520_ENCODE_Enh_hg19.bed
 
 track formatted_output_BSS00521_Roadmap_2015_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (91 day);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00521;extended_md.donor.ids=ENCDO375VTO;extended_md.collated.donors=ENCDO375VTO;extended_md.accession=ENCSR358RVW,ENCSR676ZKW;extended_md.biosample.ids=ENCBS334PQY;extended_md.assay=ChIP-seq;extended_md.life.stage=embryonic;extended_md.age=91;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00521_Roadmap_2015_Enh_hg19.bed
 
 track formatted_output_BSS00522_Roadmap_2015_Enh_hg19
-type bed9
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=heart male embryo (96 days);doi=https://doi.org/10.1038/s41586-020-03145-z;pubmed_id=33536621;bss_id=BSS00522;extended_md.donor.ids=ENCDO778DGP;extended_md.collated.donors=ENCDO778DGP;extended_md.accession=ENCSR536NGW;extended_md.biosample.ids=ENCBS312JJA;extended_md.assay=DNase-seq;extended_md.life.stage=embryonic;extended_md.age=96;extended_md.age.units=day;premapping_cell_type=Heart;acknowledgements=GADB/Annotationtracks/EpiMap_enhancers/acknowledgements.txt;schema=BED9
 visibility dense
 bigDataUrl formatted_output_BSS00522_Roadmap_2015_Enh_hg19.bed
 
 track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters
-type bed12
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
 visibility dense
 bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.clusters.bed
 
 track heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs
-type bed12
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Heart;Cell line=NA;Replicates=NA;Donor=NA;Library name=NCig10015;schema=bed12
 visibility dense
 bigDataUrl heart_adult_pool1.NCig10015.10016-101C7.hg19.GCTATA.pairs.bed
 
 track E083_15_coreMarks_mnemonics_enhancer
-type bed4
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=Fetal Heart;schema=BED4
 visibility dense
 bigDataUrl E083_15_coreMarks_mnemonics_enhancer.bed
 
 track E083_15_coreMarks_mnemonics
-type bed4
+type bed
 shortLabel Heart consolidated
 longLabel Original_cell_type=Fetal Heart;schema=BED4
 visibility dense
 bigDataUrl E083_15_coreMarks_mnemonics.bed
 
 track BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak
-type bed12+3
+type bed
 shortLabel Heart H3K36me3
 longLabel Original_cell_type=Fetal Heart;Donor= UW_H-22727;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K36me3.UW_H-22727.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K4me1.H-23524.gappedPeak
-type bed12+3
+type bed
 shortLabel Heart H3K4me1
 longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.H-23524.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak
-type bed12+3
+type bed
 shortLabel Heart H3K4me1
 longLabel Original_cell_type=Fetal Heart;Donor= UW_H23914;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.UW_H23914.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak
-type bed12+3
+type bed
 shortLabel Heart H3K9ac
 longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED12+3
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K9ac.H-23524.gappedPeak.bed
 
 track BI.Fetal_Heart.H3K4me1.H-23524.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart H3K4me1
 longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED6+4
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.H-23524.narrowPeak.bed
 
 track BI.Fetal_Heart.H3K4me1.UW_H23914.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart H3K4me1
 longLabel Original_cell_type=Fetal Heart;Donor= UW_H23914;schema=BED6+4
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K4me1.UW_H23914.narrowPeak.bed
 
 track BI.Fetal_Heart.H3K9ac.H-23524.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart H3K9ac
 longLabel Original_cell_type=Fetal Heart;Donor= H-23524;schema=BED6+4
 visibility dense
 bigDataUrl BI.Fetal_Heart.H3K9ac.H-23524.narrowPeak.bed
 
 track UW.Fetal_Heart.ChromatinAccessibility.H-23468.DS15839.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Fetal Heart;Donor= H-23468.DS15839;schema=BED6+4
 visibility dense
 bigDataUrl UW.Fetal_Heart.ChromatinAccessibility.H-23468.DS15839.narrowPeak.bed
 
 track UW.Fetal_Heart.ChromatinAccessibility.H-24042.DS19427.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Fetal Heart;Donor= H-24042.DS19427;schema=BED6+4
 visibility dense
 bigDataUrl UW.Fetal_Heart.ChromatinAccessibility.H-24042.DS19427.narrowPeak.bed
 
 track UW.Fetal_Heart.Digital_Genomic_Footprinting.H-22662.DGF.DS12531.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Fetal Heart;Donor= H-22662.DS12531;schema=BED6+4
 visibility dense
 bigDataUrl UW.Fetal_Heart.Digital_Genomic_Footprinting.H-22662.DGF.DS12531.narrowPeak.bed
 
 track UW.Heart.ChromatinAccessibility.STL001.DNase.DS20383.narrowPeak
-type bed6+4
+type bed
 shortLabel Heart Not applicable
 longLabel Original_cell_type=Heart;Donor= STL001.DNase.DS20383;schema=BED6+4
 visibility dense
