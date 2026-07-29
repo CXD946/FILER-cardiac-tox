@@ -1,0 +1,5 @@
+hub Cardiac-tox
+shortLabel FILER-cardiac-tox
+longLabel FILER-cardiac-tox
+genomesFile genomes.txt
+email CXD946@student.bham.ac.uk
